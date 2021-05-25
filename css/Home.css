@@ -2,12 +2,10 @@
 
 body {
   font-family: "Avenir Next";
-  padding-left: 5em;
-  padding-right: 5em;
   background-image: url("../img/background.jpg");
 }
 
-div#allpage{width:1918px;}
+div#allpage{width:1887px;}
 
 li {
   list-style: none;
